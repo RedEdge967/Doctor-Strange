@@ -14,3 +14,17 @@
 - Doctor Strange character assets from [PeteBits25](https://pinterest.com/PeteBits25).
 - This game be played online same as installing it on your computer.
 
+## Released Setups 📦
+- [ ] windows `exe`file
+- [ ] Mac `archieved` file
+- [ ] Linux `AppImage`
+
+## Installing and Running 📥
+- download `adventures_of_redx64_windows.exe` to install this game on windows (you need a 64 bit pc to run this game)
+  - After downloading, double click on the setup to install and run
+
+- download `adventures_of_red_macos.zip` to install this on Mac
+  - After downloading, extract the archive and double click on the app to launch it
+
+> ##### Note: When launching the game on Windows and macOS, you might get a notice about security. Choose to run the game anyway. On macOS, you may need to open Security and Privacy tab in System Preferences.
+
