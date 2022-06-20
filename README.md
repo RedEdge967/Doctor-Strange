@@ -28,3 +28,11 @@
 
 > ##### Note: When launching the game on Windows and macOS, you might get a notice about security. Choose to run the game anyway. On macOS, you may need to open Security and Privacy tab in System Preferences.
 
+## Support this game 🤝
+- If you think this game is good, support this project by starring and sharing this project with your friends
+
+## Can I contribute? ✍️
+- Sure. Open an issue, point out errors and what not? wanna fix something yourself? open a PR and I really appreciate it
+
+## Questions? ❓
+- If you have any doughts reguarding this project, ask any questions in discussions
