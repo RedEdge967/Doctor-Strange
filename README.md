@@ -19,6 +19,9 @@
 - [x] Mac `archieved` file
 - [ ] Linux `AppImage`
 
+## Running online or on mobile
+- Play on [Liluo.io](https://liluo.io/games/adb2847c-fad2-4889-a763-0c66b442b9a6) or play the game hosted with [gh pages](https://rededge.is-a.dev). I suggest you to play this game on liluo.io for better experience. you may experience some issues with mobile version.
+
 ## Installing and Running 📥
 - download `Doctor_Strange_x64_windows.exe` to install this game on windows (you need a 64 bit pc to run this game)
   - After downloading, double click on the setup to install and run
