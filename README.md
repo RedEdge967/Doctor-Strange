@@ -36,3 +36,11 @@
 
 ## Questions? ❓
 - If you have any doughts reguarding this project, ask any questions in discussions
+
+## License ⚖️
+- This project is licensed under MIT license
+- Read more about it [here](https://github.com/RedEdge967/Doctor-Strange/blob/master/LICENSE).
+
+Copyright (c) 2022 Chandula Janith
+
+- find me on [Liluo.io](https://liluo.io/Doctor_Strange).
