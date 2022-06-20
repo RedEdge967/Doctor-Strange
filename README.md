@@ -12,11 +12,11 @@
   - Supreme Strange
   - Zombie Doctor Strange
 - Doctor Strange character assets from [PeteBits25](https://pinterest.com/PeteBits25).
-- This game be played online same as installing it on your computer.
+- This game be played online same as installing it on your computer. Online version can be played on mobile too.
 
 ## Released Setups 📦
-- [ ] windows `exe`file
-- [ ] Mac `archieved` file
+- [x] windows `exe`file
+- [x] Mac `archieved` file
 - [ ] Linux `AppImage`
 
 ## Installing and Running 📥
