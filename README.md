@@ -18,16 +18,20 @@
 - [x] windows `exe`file
 - [x] Mac `archieved` file
 - [ ] Linux `AppImage`
+- [x] Android `APK`
 
-## Running online or on mobile
+## Running online
 - Play on [Liluo.io](https://liluo.io/games/adb2847c-fad2-4889-a763-0c66b442b9a6) or play the game hosted with [gh pages](https://rededge.is-a.dev). I suggest you to play this game on liluo.io for better experience. you may experience some issues with mobile version.
 
 ## Installing and Running 📥
 - download `Doctor_Strange_x64_windows.exe` to install this game on windows (you need a 64 bit pc to run this game)
   - After downloading, double click on the setup to install and run
 
-- download `Doctor_Strange_macos.zip` to install this on Mac
+- download `Doctor_Strange_mac.zip` to install this on Mac
   - After downloading, extract the archive and double click on the app to launch it
+
+- download `Doctor_Strange_android.apk` to install this on android
+  - After downloading, open it and install on it on your mobile
 
 > ##### Note: When launching the game on Windows and macOS, you might get a notice about security. Choose to run the game anyway. On macOS, you may need to open Security and Privacy tab in System Preferences.
 
