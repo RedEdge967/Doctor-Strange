@@ -17,7 +17,7 @@
 ## Released Setups 📦
 - [x] windows `exe`file
 - [x] Mac `archieved` file
-- [ ] Linux `AppImage`
+- [x] Linux `AppImage`
 - [x] Android `APK`
 
 ## Running online
@@ -29,6 +29,9 @@
 
 - download `Doctor_Strange_mac.zip` to install this on Mac
   - After downloading, extract the archive and double click on the app to launch it
+
+- download `Doctor_Strage_linux.AppImage` to install this game on Linux
+  - After downloading, install [AppImage](https://appimage.org/) to run the game
 
 - download `Doctor_Strange_android.apk` to install this on android
   - After downloading, open it and install on it on your mobile
